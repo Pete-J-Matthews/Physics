@@ -1,4 +1,4 @@
-# Train work Calculato
+# Train work Calculator
 train_mass = 22680
 train_acceleration = 10
 train_distance = 100
