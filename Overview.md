@@ -1,2 +1,2 @@
 # Python-Functions
-You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
+The following project utilises fucntions to create an easy way to calculate answer to some simple physics formulas.
